@@ -224,7 +224,11 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "Feedback",
+    "addadmin",
+    "info",
+    "persian_lang",
     },
     sudo_users = {62283960},--Sudo users
     disabled_channels = {},
