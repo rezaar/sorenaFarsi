@@ -1,5 +1,5 @@
 do
-local creed = 118682430
+local creed = 62283960
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
